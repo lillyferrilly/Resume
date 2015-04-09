@@ -1,0 +1,289 @@
+
+
+#education { margin-top: 12pt;
+}
+#profExperience {margin-top: 12pt;}
+#experience {margin-top: 12pt; clear: both;
+}
+#hcard-Lilly-Thompson { border-bottom: 2px solid black;                      
+}
+#interests {margin-top: 12pt;
+}
+
+.urlfn:link {
+  text-decoration: none;
+  color: #000000;
+}
+
+.urlfn:visited {
+  text-decoration: none;
+  color: #81F7F3;
+}
+
+.urlfn:hover {
+  text-decoration: none;
+  color: #04B4AE;
+}
+
+.company {
+  font-size: 14pt;
+}
+
+.company1 {
+  font-size: 14pt;
+  text-decoration: none;
+  color: #000000;
+}
+
+.company:link {
+  text-decoration: none;
+  color: #000000;
+}
+
+.company:visited {
+  text-decoration: none;
+  color: #81F7F3;
+}
+
+.company:hover {
+  text-decoration: none;
+  color: #04B4AE;
+}
+
+.institution {
+  font-size: 14pt;
+}
+
+.institution:link {
+  text-decoration: none;
+  color: #000000;
+}
+
+.institution:visited {
+  text-decoration: none;
+  color: #81F7F3;
+}
+
+.institution:hover {
+  text-decoration: none;
+  color: #04B4AE;
+}
+
+
+
+#name  { text-align: left;
+         color: #000000;
+         font-family: 'Glegoo', serif;
+         font-weight: bold;
+         font-size: 36pt;
+         margin-bottom: 0pt;
+}
+
+#skills {margin-top: 12pt;
+}
+
+#skills ul {
+    margin-left:4em;
+}
+
+#skills ul li{
+
+    display: inline;
+    list-style-type: none;
+    padding-right: 1em;
+
+}
+
+#skills ul li:after{
+    content: ", ";
+}
+
+#skills ul li:last-child:after{
+    content: "";
+}
+
+
+#resume { margin-left: 12pt;
+          margin-right: 12pt;
+          margin-top: 12pt;
+          margin-bottom: 12pt;
+          font-family: 'Glegoo', serif;
+          font-size: 12pt;
+          width: 6.5in;
+}
+
+#references { margin-top: 12pt; }
+
+
+.wrapper1 {width: 50%;
+          margin: 0 auto;
+          padding: 10px;
+}
+
+.wrapper2 {width: 50%;
+          margin: 0 auto;
+          padding: 10px;
+}
+
+.wrapper3 {width: 50%;
+          margin: 0 auto;
+          padding: 10px;
+          border-top: 2px solid black;
+}
+
+
+.adr, .street-address, .email, .tel, .locality, .region, .postal-code, .country-name,.email{text-align: right;
+                                                                                            color: #000000;
+                                                                                            font-family: 'Glegoo', serif;
+                                                                                            font-weight: normal;
+                                                                                            font-size: 10pt;
+}
+
+.email1:link {
+  color: #000000;
+}
+
+
+.email1:hover {
+  color: #04B4AE;
+}
+
+.courses{ margin-top: 0pt;
+          display: block;
+          margin-left: 0em;
+          margin-bottom: 12pt;
+          border: 0px solid yellow;
+}
+
+.dates { text-align: right;
+         color: #000000;
+         font-family: 'Glegoo', serif;
+         font-weight: normal;
+         font-size: 12pt;
+         float: right
+}
+
+.description{
+    color: #000000;
+    font-family: 'Glegoo', serif;
+    font-size: 10pt;
+}
+
+.gpa{display: block;
+     color: #000000;
+     font-size: 12pt;
+}
+
+.int{
+    margin-top: 6pt;
+    margin-left: 5em;
+    list-style-type: none;		
+}
+
+.job{ display: block;
+      margin-top: 6pt;
+      margin-left: 5em;
+      list-style-type: none;
+}
+
+.jobtitle {text-align: left;
+           color: #000000;
+           font-family: 'Glegoo', serif;
+           font-style: italic;
+           font-size: 12pt;
+           display: block;
+}
+
+.location { text-align: left;
+            color: #000000;
+            font-family: 'Glegoo', serif;
+            font-weight: normal;
+            font-size: 10pt;
+            display: inline;
+}
+
+.location:link {
+  color: #000000;
+}
+
+.location:hover {
+  color: #04B4AE;
+}
+
+/*list of your major classes that you have taken */
+.major{ margin-top: 0pt;
+        display: inline;
+        margin-left: 1em;
+        width: 50%;
+        float: left;
+        border: 0px solid blue;
+        list-style-type: none;
+}
+
+/* what degree you are getting */
+.MajorDegree{display: block;
+             color: #000000;
+             font-size: 12pt;
+} 
+
+/* list of minor classes that you have taken */
+.minor{ margin-top: 0pt;
+        margin-left: 0em;
+        border: 0px solid green;
+        list-style-type: none;
+}
+
+/* your minor degree you are getting */
+.MinorDegree {display: block;
+              color: #000000;
+              font-size: 11pt;
+} 
+
+.ref{ margin-top: 6pt;
+      margin-left: 5em;
+      list-style-type: none;
+}
+
+.school{ display: block;
+         margin-top: 6pt;
+         margin-left: 5em;
+         list-style-type: none;
+}
+
+.subtitle { font-size: 14pt;}
+
+
+footer {text-align: center;}
+
+head, body {background-color: #35707D;}
+
+h2 { 
+    text-align: left;
+    color: #000000;
+    font-family: 'Glegoo', serif;
+    font-weight: bold;
+    font-size: 18pt;
+    margin-bottom: 0pt;
+}
+
+h3 {
+    font-family: 'Glegoo', serif;
+    font-size: 14pt;
+    font-weight: bold;
+    color: #000000;
+}
+
+p { font-weight: normal;
+    font-size: 10pt;
+    font-family: 'Glegoo', serif;
+    margin-left: 0pt;
+    margin-right: 0pt;
+    margin-top: 0pt;
+    margin-bottom: 12pt;
+}
+
+li { font-family: 'Glegoo', serif;
+           font-size: 10pt;
+}
+
+
